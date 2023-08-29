@@ -6,6 +6,10 @@
   font-family: "Hanken Grotesk";
 }
 
+h1 {
+  display: none;
+}
+
 :root {
   --primary-color: hsl(212, 45%, 89%);
   --secondary-color:hsl(220, 15%, 55%);
